@@ -1,0 +1,4 @@
+db.classname=net.sf.log4jdbc.sql.jdbcapi.DriverSpy
+db.url=jdbc:log4jdbc:mariadb://np.flatjava.co.kr:3306/semi
+db.username=sample
+db.password=1234
